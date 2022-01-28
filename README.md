@@ -30,7 +30,6 @@ Install the dependencies and devDependencies and start the server.
 
 ```sh
 cd jokesapp
-npm init
 npm install express
 npm install sqlite3
 npm install md5
@@ -44,3 +43,6 @@ npm start
 Follow to link to view your application [http://localhost:3000/](http://localhost:3000/)
 ## License
 MIT
+
+### Resources
+https://developerhowto.com/2018/12/29/build-a-rest-api-with-node-js-and-express-js/
