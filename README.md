@@ -1,7 +1,10 @@
+<p align="center">
+  <a href="https://exarth.com/"><img src="https://exarth.com/static/exarth/theme/logo-red-1000.svg" height="150"></a>
+</p><hr>
+
 # JOKES APP
 ## _Be the reason of someone to smile_
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodejs.org/en/)
 
 Jokes Application is single page, less and smart code application developed to make people smile on each click, this application is de=signed on simple Html, CSS, JQuerry and backend was developed on NodeJS and Express (A Javascript Framework for Perfectionists), SQLITE is used as database.
 
