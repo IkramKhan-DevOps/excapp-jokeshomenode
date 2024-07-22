@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://exarth.com/"><img src="https://exarth.com/static/exarth/theme/logo-red-1000.svg" height="150"></a>
-</p><hr>
-
 # JOKES APP
 ## _Be the reason of someone to smile_
 
@@ -44,8 +40,4 @@ Open terminal and run the command below, make sure all requirements are installe
 npm start
 ```
 Follow to link to view your application [http://localhost:3000/](http://localhost:3000/)
-## License
-MIT
 
-### Resources
-https://developerhowto.com/2018/12/29/build-a-rest-api-with-node-js-and-express-js/
